@@ -1,0 +1,4 @@
+结果验证
+在MP3_decoder\Mp3_decodera\Debug  中setup文件安装软件。
+然后会生成一个exe文件，在打开exe文件时，需要加上MP3文件的路径
+生成的musicout.pcm文件在MP3_decoder\MP3_decoder中
